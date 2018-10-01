@@ -5,3 +5,4 @@
 - [ ] lct
 - [ ] kdt
 - [ ] 2D-geometry
+- [ ] polynomial
