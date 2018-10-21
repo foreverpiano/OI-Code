@@ -4,9 +4,11 @@
 
 ### TODO LIST
 
-- [ ] TCO2013待做
+- [ ] TCO2013 待做
 
-- [ ] ARC待做
+- [ ] SRM HARD 待做
+
+- [ ] UR 待做
 
 - [ ] ioi2018 d1t3 d2t3
 
